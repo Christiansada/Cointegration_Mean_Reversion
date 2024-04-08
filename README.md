@@ -34,8 +34,4 @@ Mean reversion is a popular trading strategy in finance, particularly in pairs t
 - statsmodels
 - matplotlib
 
-## How to Run
-1. Clone the repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run `main.py` to execute the pairs trading strategy.
 
